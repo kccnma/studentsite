@@ -150,9 +150,9 @@ aside {
 }
 
 .page-home .hero{
-    background-image: url('../img/strawberries.jpg');
+    /* background-image: url('../img/strawberries.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center; */
     padding: 30vh 1em 20vh 1em;
 }
 
